@@ -1,0 +1,5 @@
+{
+  "name": "Copy of mws-1.0 - aggiornata con Fattura MWS + Simbolo storico",
+  "description": "1.0 Ultima modifica fino all'aggiunta delle lead di facche con storico modificabile e aggiungibile a parte. Modificata spesa pubblicitaria per aggiungere la spesa in base al giorno, settimana e mese. \nPrimo giorno con accesso a facche + controllo la sera con aggiustamenti con lui\nSistemato il copia e incolla per tutti i dispositivi\naggiunta fattura % MWS\n+ simbolo storico per attirare l'attenzione",
+  "requestFramePermissions": []
+}
