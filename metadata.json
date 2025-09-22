@@ -1,0 +1,5 @@
+{
+  "name": "mws-1.1 - aggiornata con Fattura MWS + Simbolo storico + cht boat + lingue + utenti online + facche messaggi + modifica targa + id lead + Salvataggio formulario HTML",
+  "description": "1.1 Ultima modifica fino all'aggiunta delle lead di facche con storico modificabile e aggiungibile a parte. Modificata spesa pubblicitaria per aggiungere la spesa in base al giorno, settimana e mese. \nPrimo giorno con accesso a facche + controllo la sera con aggiustamenti con lui\nSistemato il copia e incolla per tutti i dispositivi\naggiunta fattura % MWS\n+ simbolo storico per attirare l'attenzione\n+ chat boat\n+ utenti live\n+ aggiornamento genera messaggi facche \n+ targa modificabile \n+ id lead \n+ versione 1.1\n+ Salvataggio formulario HTML ",
+  "requestFramePermissions": []
+}
