@@ -1,0 +1,5 @@
+{
+  "name": "mws-1.1 - 2.0",
+  "description": "1.1 Ultima modifica fino all'aggiunta delle lead di facche con storico modificabile e aggiungibile a parte. Modificata spesa pubblicitaria per aggiungere la spesa in base al giorno, settimana e mese. \nPrimo giorno con accesso a facche + controllo la sera con aggiustamenti con lui\nSistemato il copia e incolla per tutti i dispositivi\naggiunta fattura % MWS\n+ simbolo storico per attirare l'attenzione\n+ chat boat\n+ utenti live\n+ aggiornamento genera messaggi facche \n+ targa modificabile \n+ id lead \n+ versione 1.1\n+ Salvataggio formulario HTML\n+ messaggio in + sul genera messaggio \n+ Fatturato MWS su clienti \n+ se si segna un lead vinta il giorno stesso si calcola su quel mese li, anche se la lead è del mese scorso  \n+ mese da conteggiare lead vinti\n+ aggiunta ip utenti online \n+ modifica aggiunta lead manuale + periodo di aggiunta \n+ modifica ai servizi di un cliente  prima di cancellare il servizio\n+ Sistemato il periodo MESE\n+ Aggiungo funzionalità \"Fattura MWS\"  ",
+  "requestFramePermissions": []
+}
